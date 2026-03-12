@@ -1,0 +1,3 @@
+from research_paper_analyser.config.llm_provider_config import LLMProviderCredentials
+
+llm_provider_config=LLMProviderCredentials()
